@@ -28,7 +28,7 @@ The main script that:
 - Sets up the Eady problem.
 - Defines the grid and physical parameters.
 - Solves the equations (potential vorticity formulation) using spectral and finite-difference methods.
-- 
+
 ---
 
 ### functions.py
@@ -38,6 +38,5 @@ Key Functions:
 - transform and inverse_transform: Perform forward and inverse Fourier transforms.
 - X_derivative and Y_derivative: Compute spatial derivatives in spectral space.
 - wavenumbers: Generate wavenumbers for Fourier transforms.
--
 
 ---
