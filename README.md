@@ -52,7 +52,3 @@ The primary script for running simulations, performing analyses, and visualizing
 - `plot_contour_of_v`: Generates contour plots of the velocity field.
 - `analyze_growth_rate_vs_perturbation`: Studies the relationship between growth rates and perturbation modes.
 ---
-
-```bash
-python main.py
----
