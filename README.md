@@ -1,6 +1,7 @@
 # EadyModel_3D
 
-Spectral and Finite Difference 3D Code for Solving the Eady Problem in Potential Vorticity Formulation
+Spectral and Finite Difference 3D Code for Solving the Eady Problem in Potential Vorticity Formulation.
+Supervisor: Antonio Segalini
 
 ---
 
