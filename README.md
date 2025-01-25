@@ -11,6 +11,8 @@ EadyModel_3D is a Python-based repository that implements numerical techniques t
 
 The code utilizes spectral methods and finite-difference schemes to address the problem in a 3D potential vorticity framework, ensuring both precision and computational efficiency.
 
+![Fun Animation](https://gifyu.com/image/SeZLj)
+
 ---
 
 ## Features
