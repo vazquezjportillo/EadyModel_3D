@@ -14,6 +14,7 @@ The code utilizes spectral methods and finite-difference schemes to address the 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25pNGd4eW5tanprODE2Z3VqemRocTV0NzhzYTY1MzQyb3Mzc2MybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sYOirykoUWM4dMogPI/giphy.gif" width="500">
 </p>
+
 ---
 
 ## Features
